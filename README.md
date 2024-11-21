@@ -1,4 +1,4 @@
-# getting-started
+# getting-started MAJ
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
